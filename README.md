@@ -1,7 +1,7 @@
 # SegmentProgressBar
 Segmented Progress Bar for .NET (WinForms)
 
-This is a progress bar user control for tracking the state of each segment in a series of jobs (eg downloads).
+This is a progress bar user control for tracking the state of each segment in a series of jobs (eg downloads or file creation).
 
 ### Set up
 ```
