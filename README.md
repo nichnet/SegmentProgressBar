@@ -43,7 +43,12 @@ private async void FillTest() {
 }    
 ```
 
-![Example](https://raw.githubusercontent.com/nichnet/SegmentProgressBar/main/Example.PNG)
+</br>
+</br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nichnet/SegmentProgressBar/main/Example.PNG" />
+</p>
+</br>
 
 ## Example Use Case: 
 
