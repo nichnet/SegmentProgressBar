@@ -22,6 +22,7 @@ this.progressBar.ShowText = true;
 this.progressBar.TextColor = Color.Red
 
 ...
+
 //fill test
 Thread t = new Thread(FillTest);
 t.Start();
@@ -45,6 +46,10 @@ private async void FillTest() {
 ## Example Use Case: 
 
 You've created a program that downloads Transport Stream files and want to monitor which parts (segments) are in the following states: not started, in progress, completed, failed. 
+
+## Using
+To use this, download the DLL file and add it to your Toolbox in Visual Studio Code.
+.NET > 3.0 Required.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
