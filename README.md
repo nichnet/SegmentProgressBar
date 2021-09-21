@@ -43,6 +43,8 @@ private async void FillTest() {
 }    
 ```
 
+![Example](https://raw.githubusercontent.com/nichnet/SegmentProgressBar/main/Example.PNG)
+
 ## Example Use Case: 
 
 You've created a program that downloads Transport Stream files and want to monitor which parts (segments) are in the following states: not started, in progress, completed, failed. 
